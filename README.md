@@ -1,2 +1,2 @@
-# gdr
-I will update this repository to share my personal experiences in game-development (similar, but distinct from a blog), hoping to be of help for anyone interested in game-development but does not know where to start
+# Hello
+My name, on the Internet, is, at the moment, Lith. Often, I will also use other names with the string 60820 appended to the end.
