@@ -1,2 +1,4 @@
 # Hello
-My name, on the Internet, is, at the moment, Lith. Often, I will also use other names with the string 60820 appended to the end.
+I am an aspiring game developer, with my interests in rogue-like games.
+
+Procedural generation is really cool.
