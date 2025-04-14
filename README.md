@@ -10,6 +10,7 @@
 
     Art
     Game development
+    Procedural generation
     Linguistics
     Vexillology
     Some other weird things
