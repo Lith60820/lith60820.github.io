@@ -45,6 +45,7 @@
     Hollow Knight (8/10)
     Control (9/10)
     Honkai Star Rail (8/10)
+    Plants vs. Zombies (9/10) (Specifically the FIRST game)
 
 ### Contacts:
 
