@@ -34,7 +34,7 @@
     And also some other things sometimes
 
 
-I'm pretty okay at some games, here's a list to give you a better understanding of who I am
+### I'm pretty okay at some games, here's a list to give you a better understanding of who I am
 
     CS:GO (7/10) (More recently, CS:2 (2/10) (which I play less))
     VALORANT (4/10) (Not happy about this one)
@@ -43,6 +43,8 @@ I'm pretty okay at some games, here's a list to give you a better understanding 
     BloonsTD 6 (8/10)
     Kingdom Rush (7/10) (The entire franchise)
     Hollow Knight (8/10)
+    Control (9/10)
+    Honkai Star Rail (8/10)
 
 ### Contacts:
 
