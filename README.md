@@ -16,8 +16,12 @@
     Some other weird things
 
 
+### I've done some things in the past! Here are the ones I'm most proud of:
 
+### I'm doing things right now!
 
+    Games $\times$ 2
+    
 
 ### Contacts:
 
