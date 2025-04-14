@@ -15,12 +15,16 @@
     Vexillology
     Some other weird things
 
+---
+
 ### I've done some things in the past! Here are the ones I'm most proud of:
 
     Some art pieces
     Games $\times$ 2
     A few competitions (Art, maths, physics, programming)
     Board games
+
+---
 
 ### I'm doing things right now!
 
@@ -33,6 +37,7 @@
     Essays
     And also some other things sometimes
 
+---
 
 ### I'm pretty okay at some games, here's a list to give you a better understanding of who I am
 
