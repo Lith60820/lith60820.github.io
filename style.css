@@ -389,6 +389,12 @@ body {
     text-shadow: 0 0 5px rgba(153, 242, 212, 0.3);
 }
 
+.feature-card h3 span {
+    color: #7FFFD4;
+    font-weight: 900;
+    text-shadow: 0 0 5px rgba(153, 242, 212, 0.3);
+}
+
 /* Achievements Section */
 
 .achievements-section {
