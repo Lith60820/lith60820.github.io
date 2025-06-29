@@ -428,6 +428,10 @@ body {
   flex: 1;
 }
 
+.sepsmall {
+  min-height: 5vh;
+}
+
 .sep {
   min-height: 10vh;
 }
@@ -435,7 +439,8 @@ body {
 /* Contacts */
 
 .contacts-section {
-  height: 20vh;
+  height: 40vh;
+  background: #013e39;
 }
 
 .contacts-container {
